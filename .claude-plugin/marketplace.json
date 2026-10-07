@@ -1,0 +1,21 @@
+{
+  "name": "arena-skill",
+  "metadata": {
+    "description": "Skills propias para Claude Code. /arena pone a competir N subagentes sobre la misma tarea hasta que sobrevive una sola respuesta."
+  },
+  "owner": {
+    "name": "Akio Tanaka"
+  },
+  "plugins": [
+    {
+      "name": "arena",
+      "description": "Torneo de subagentes: misma tarea, una carta de estrategia distinta por agente, y un bracket de ataque, defensa y juez hasta que queda una solución.",
+      "author": {
+        "name": "Akio Tanaka"
+      },
+      "source": "./plugins/arena",
+      "category": "productivity",
+      "homepage": "https://github.com/akiotanaka847/arena-skill"
+    }
+  ]
+}

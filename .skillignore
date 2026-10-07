@@ -1,0 +1,19 @@
+# Exclusiones para el escáner de instalación de Agent Skills.
+# Mantiene el bundle público centrado en la skill de ejecución.
+
+.git/
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.arena/
+
+.github/
+.claude-plugin/
+
+tests/
+best-practice/
+implementation/
+README.md
+CHANGELOG.md

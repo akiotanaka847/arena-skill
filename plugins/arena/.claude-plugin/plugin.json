@@ -1,0 +1,23 @@
+{
+  "name": "arena",
+  "version": "1.0.0",
+  "description": "Cuando una respuesta no convence, /arena lanza N subagentes (100 por defecto, 16 con --quick) con la misma tarea y una carta de estrategia distinta cada uno, y los enfrenta en un bracket de ataque, defensa y juez con rúbrica escrita hasta que sobrevive una sola solución. Responde en el idioma de la tarea.",
+  "author": {
+    "name": "Akio Tanaka"
+  },
+  "homepage": "https://github.com/akiotanaka847/arena-skill",
+  "repository": "https://github.com/akiotanaka847/arena-skill",
+  "license": "MIT",
+  "keywords": [
+    "arena",
+    "subagents",
+    "multi-agent",
+    "tournament",
+    "bracket",
+    "judge",
+    "rubric",
+    "prompting",
+    "espanol",
+    "spanish"
+  ]
+}

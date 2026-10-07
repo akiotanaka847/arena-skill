@@ -1,0 +1,14 @@
+# OS / editor / tooling
+.DS_Store
+__pycache__/
+*.pyc
+*.tmp
+.venv/
+.idea/
+.vscode/
+
+# runs de /arena (estado y soluciones de los subagentes)
+.arena/
+
+# local Claude Code settings
+.claude/settings.local.json
